@@ -1,0 +1,439 @@
+date,area_name,new_cases,total_cases
+1/30/2020,London,0,0
+1/30/2020,Rest of England,1,1
+1/31/2020,London,0,0
+1/31/2020,Rest of England,0,1
+2/1/2020,London,0,0
+2/1/2020,Rest of England,0,1
+2/2/2020,London,0,0
+2/2/2020,Rest of England,0,1
+2/3/2020,London,0,0
+2/3/2020,Rest of England,0,1
+2/4/2020,London,0,0
+2/4/2020,Rest of England,0,1
+2/5/2020,London,0,0
+2/5/2020,Rest of England,1,2
+2/6/2020,London,0,0
+2/6/2020,Rest of England,0,2
+2/7/2020,London,0,0
+2/7/2020,Rest of England,0,2
+2/8/2020,London,0,0
+2/8/2020,Rest of England,4,6
+2/9/2020,London,0,0
+2/9/2020,Rest of England,1,7
+2/10/2020,London,0,0
+2/10/2020,Rest of England,0,7
+2/11/2020,London,1,1
+2/11/2020,Rest of England,0,7
+2/12/2020,London,0,1
+2/12/2020,Rest of England,0,7
+2/13/2020,London,0,1
+2/13/2020,Rest of England,0,7
+2/14/2020,London,0,1
+2/14/2020,Rest of England,0,7
+2/15/2020,London,0,1
+2/15/2020,Rest of England,0,7
+2/16/2020,London,0,1
+2/16/2020,Rest of England,0,7
+2/17/2020,London,0,1
+2/17/2020,Rest of England,0,7
+2/18/2020,London,0,1
+2/18/2020,Rest of England,0,7
+2/19/2020,London,0,1
+2/19/2020,Rest of England,0,7
+2/20/2020,London,0,1
+2/20/2020,Rest of England,0,7
+2/21/2020,London,0,1
+2/21/2020,Rest of England,1,8
+2/22/2020,London,0,1
+2/22/2020,Rest of England,0,8
+2/23/2020,London,0,1
+2/23/2020,Rest of England,1,9
+2/24/2020,London,1,2
+2/24/2020,Rest of England,1,10
+2/25/2020,London,3,5
+2/25/2020,Rest of England,2,12
+2/26/2020,London,2,7
+2/26/2020,Rest of England,2,14
+2/27/2020,London,2,9
+2/27/2020,Rest of England,5,19
+2/28/2020,London,3,12
+2/28/2020,Rest of England,8,27
+2/29/2020,London,1,13
+2/29/2020,Rest of England,3,30
+3/1/2020,London,4,17
+3/1/2020,Rest of England,16,46
+3/2/2020,London,12,29
+3/2/2020,Rest of England,25,71
+3/3/2020,London,6,35
+3/3/2020,Rest of England,45,116
+3/4/2020,London,18,53
+3/4/2020,Rest of England,30,146
+3/5/2020,London,14,67
+3/5/2020,Rest of England,32,178
+3/6/2020,London,23,90
+3/6/2020,Rest of England,46,224
+3/7/2020,London,14,104
+3/7/2020,Rest of England,31,255
+3/8/2020,London,22,126
+3/8/2020,Rest of England,28,283
+3/9/2020,London,53,179
+3/9/2020,Rest of England,68,351
+3/10/2020,London,91,270
+3/10/2020,Rest of England,126,477
+3/11/2020,London,183,453
+3/11/2020,Rest of England,160,637
+3/12/2020,London,165,618
+3/12/2020,Rest of England,241,878
+3/13/2020,London,136,754
+3/13/2020,Rest of England,241,1119
+3/14/2020,London,149,903
+3/14/2020,Rest of England,160,1279
+3/15/2020,London,165,1068
+3/15/2020,Rest of England,218,1497
+3/16/2020,London,234,1302
+3/16/2020,Rest of England,300,1797
+3/17/2020,London,310,1612
+3/17/2020,Rest of England,353,2150
+3/18/2020,London,356,1968
+3/18/2020,Rest of England,531,2681
+3/19/2020,London,333,2301
+3/19/2020,Rest of England,565,3246
+3/20/2020,London,426,2727
+3/20/2020,Rest of England,610,3856
+3/21/2020,London,351,3078
+3/21/2020,Rest of England,655,4511
+3/22/2020,London,437,3515
+3/22/2020,Rest of England,747,5258
+3/23/2020,London,689,4204
+3/23/2020,Rest of England,1275,6533
+3/24/2020,London,637,4841
+3/24/2020,Rest of England,1341,7874
+3/25/2020,London,759,5600
+3/25/2020,Rest of England,1435,9309
+3/26/2020,London,767,6367
+3/26/2020,Rest of England,1755,11064
+3/27/2020,London,821,7188
+3/27/2020,Rest of England,1709,12773
+3/28/2020,London,577,7765
+3/28/2020,Rest of England,1748,14521
+3/29/2020,London,595,8360
+3/29/2020,Rest of England,1796,16317
+3/30/2020,London,870,9230
+3/30/2020,Rest of England,2546,18863
+3/31/2020,London,936,10166
+3/31/2020,Rest of England,2707,21570
+4/1/2020,London,979,11145
+4/1/2020,Rest of England,2991,24561
+4/2/2020,London,1072,12217
+4/2/2020,Rest of England,2843,27404
+4/3/2020,London,982,13199
+4/3/2020,Rest of England,2928,30332
+4/4/2020,London,766,13965
+4/4/2020,Rest of England,2496,32828
+4/5/2020,London,635,14600
+4/5/2020,Rest of England,2361,35189
+4/6/2020,London,860,15460
+4/6/2020,Rest of England,3306,38495
+4/7/2020,London,953,16413
+4/7/2020,Rest of England,3409,41904
+4/8/2020,London,874,17287
+4/8/2020,Rest of England,3223,45127
+4/9/2020,London,799,18086
+4/9/2020,Rest of England,3094,48221
+4/10/2020,London,614,18700
+4/10/2020,Rest of England,2811,51032
+4/11/2020,London,521,19221
+4/11/2020,Rest of England,2394,53426
+4/12/2020,London,501,19722
+4/12/2020,Rest of England,2334,55760
+4/13/2020,London,601,20323
+4/13/2020,Rest of England,2681,58441
+4/14/2020,London,604,20927
+4/14/2020,Rest of England,2763,61204
+4/15/2020,London,660,21587
+4/15/2020,Rest of England,3275,64479
+4/16/2020,London,576,22163
+4/16/2020,Rest of England,3481,67960
+4/17/2020,London,578,22741
+4/17/2020,Rest of England,3235,71195
+4/18/2020,London,402,23143
+4/18/2020,Rest of England,3363,74558
+4/19/2020,London,396,23539
+4/19/2020,Rest of England,2817,77375
+4/20/2020,London,434,23973
+4/20/2020,Rest of England,3012,80387
+4/21/2020,London,466,24439
+4/21/2020,Rest of England,3305,83692
+4/22/2020,London,396,24835
+4/22/2020,Rest of England,4249,87941
+4/23/2020,London,523,25358
+4/23/2020,Rest of England,3901,91842
+4/24/2020,London,378,25736
+4/24/2020,Rest of England,3785,95627
+4/25/2020,London,333,26069
+4/25/2020,Rest of England,2905,98532
+4/26/2020,London,310,26379
+4/26/2020,Rest of England,2679,101211
+4/27/2020,London,417,26796
+4/27/2020,Rest of England,3540,104751
+4/28/2020,London,311,27107
+4/28/2020,Rest of England,3600,108351
+4/29/2020,London,431,27538
+4/29/2020,Rest of England,4199,112550
+4/30/2020,London,425,27963
+4/30/2020,Rest of England,3797,116347
+5/1/2020,London,356,28319
+5/1/2020,Rest of England,3664,120011
+5/2/2020,London,249,28568
+5/2/2020,Rest of England,2418,122429
+5/3/2020,London,166,28734
+5/3/2020,Rest of England,2366,124795
+5/4/2020,London,246,28980
+5/4/2020,Rest of England,2527,127322
+5/5/2020,London,221,29201
+5/5/2020,Rest of England,2848,130170
+5/6/2020,London,269,29470
+5/6/2020,Rest of England,2921,133091
+5/7/2020,London,271,29741
+5/7/2020,Rest of England,2840,135931
+5/8/2020,London,207,29948
+5/8/2020,Rest of England,2364,138295
+5/9/2020,London,127,30075
+5/9/2020,Rest of England,1635,139930
+5/10/2020,London,124,30199
+5/10/2020,Rest of England,1860,141790
+5/11/2020,London,159,30358
+5/11/2020,Rest of England,2867,144657
+5/12/2020,London,195,30553
+5/12/2020,Rest of England,2675,147332
+5/13/2020,London,204,30757
+5/13/2020,Rest of England,2603,149935
+5/14/2020,London,157,30914
+5/14/2020,Rest of England,2006,151941
+5/15/2020,London,131,31045
+5/15/2020,Rest of England,1955,153896
+5/16/2020,London,74,31119
+5/16/2020,Rest of England,1682,155578
+5/17/2020,London,79,31198
+5/17/2020,Rest of England,1492,157070
+5/18/2020,London,112,31310
+5/18/2020,Rest of England,2062,159132
+5/19/2020,London,132,31442
+5/19/2020,Rest of England,2406,161538
+5/20/2020,London,144,31586
+5/20/2020,Rest of England,2175,163713
+5/21/2020,London,158,31744
+5/21/2020,Rest of England,2083,165796
+5/22/2020,London,85,31829
+5/22/2020,Rest of England,1691,167487
+5/23/2020,London,65,31894
+5/23/2020,Rest of England,1219,168706
+5/24/2020,London,51,31945
+5/24/2020,Rest of England,1133,169839
+5/25/2020,London,58,32003
+5/25/2020,Rest of England,1307,171146
+5/26/2020,London,66,32069
+5/26/2020,Rest of England,1365,172511
+5/27/2020,London,84,32153
+5/27/2020,Rest of England,1508,174019
+5/28/2020,London,74,32227
+5/28/2020,Rest of England,1473,175492
+5/29/2020,London,57,32284
+5/29/2020,Rest of England,1295,176787
+5/30/2020,London,39,32323
+5/30/2020,Rest of England,946,177733
+5/31/2020,London,38,32361
+5/31/2020,Rest of England,939,178672
+6/1/2020,London,49,32410
+6/1/2020,Rest of England,1237,179909
+6/2/2020,London,49,32459
+6/2/2020,Rest of England,1288,181197
+6/3/2020,London,79,32538
+6/3/2020,Rest of England,1138,182335
+6/4/2020,London,57,32595
+6/4/2020,Rest of England,1071,183406
+6/5/2020,London,47,32642
+6/5/2020,Rest of England,958,184364
+6/6/2020,London,46,32688
+6/6/2020,Rest of England,664,185028
+6/7/2020,London,45,32733
+6/7/2020,Rest of England,613,185641
+6/8/2020,London,56,32789
+6/8/2020,Rest of England,922,186563
+6/9/2020,London,71,32860
+6/9/2020,Rest of England,973,187536
+6/10/2020,London,53,32913
+6/10/2020,Rest of England,1020,188556
+6/11/2020,London,47,32960
+6/11/2020,Rest of England,859,189415
+6/12/2020,London,54,33014
+6/12/2020,Rest of England,876,190291
+6/13/2020,London,39,33053
+6/13/2020,Rest of England,740,191031
+6/14/2020,London,31,33084
+6/14/2020,Rest of England,712,191743
+6/15/2020,London,41,33125
+6/15/2020,Rest of England,884,192627
+6/16/2020,London,47,33172
+6/16/2020,Rest of England,930,193557
+6/17/2020,London,43,33215
+6/17/2020,Rest of England,850,194407
+6/18/2020,London,46,33261
+6/18/2020,Rest of England,880,195287
+6/19/2020,London,37,33298
+6/19/2020,Rest of England,767,196054
+6/20/2020,London,28,33326
+6/20/2020,Rest of England,596,196650
+6/21/2020,London,27,33353
+6/21/2020,Rest of England,520,197170
+6/22/2020,London,51,33404
+6/22/2020,Rest of England,754,197924
+6/23/2020,London,49,33453
+6/23/2020,Rest of England,666,198590
+6/24/2020,London,46,33499
+6/24/2020,Rest of England,674,199264
+6/25/2020,London,57,33556
+6/25/2020,Rest of England,575,199839
+6/26/2020,London,48,33604
+6/26/2020,Rest of England,585,200424
+6/27/2020,London,32,33636
+6/27/2020,Rest of England,469,200893
+6/28/2020,London,22,33658
+6/28/2020,Rest of England,386,201279
+6/29/2020,London,58,33716
+6/29/2020,Rest of England,598,201877
+6/30/2020,London,52,33768
+6/30/2020,Rest of England,515,202392
+7/1/2020,London,42,33810
+7/1/2020,Rest of England,556,202948
+7/2/2020,London,38,33848
+7/2/2020,Rest of England,506,203454
+7/3/2020,London,38,33886
+7/3/2020,Rest of England,491,203945
+7/4/2020,London,32,33918
+7/4/2020,Rest of England,348,204293
+7/5/2020,London,51,33969
+7/5/2020,Rest of England,483,204776
+7/6/2020,London,53,34022
+7/6/2020,Rest of England,587,205363
+7/7/2020,London,59,34081
+7/7/2020,Rest of England,487,205850
+7/8/2020,London,57,34138
+7/8/2020,Rest of England,601,206451
+7/9/2020,London,54,34192
+7/9/2020,Rest of England,619,207070
+7/10/2020,London,40,34232
+7/10/2020,Rest of England,469,207539
+7/11/2020,London,19,34251
+7/11/2020,Rest of England,387,207926
+7/12/2020,London,38,34289
+7/12/2020,Rest of England,309,208235
+7/13/2020,London,85,34374
+7/13/2020,Rest of England,581,208816
+7/14/2020,London,62,34436
+7/14/2020,Rest of England,573,209389
+7/15/2020,London,76,34512
+7/15/2020,Rest of England,636,210025
+7/16/2020,London,70,34582
+7/16/2020,Rest of England,559,210584
+7/17/2020,London,48,34630
+7/17/2020,Rest of England,488,211072
+7/18/2020,London,48,34678
+7/18/2020,Rest of England,416,211488
+7/19/2020,London,41,34719
+7/19/2020,Rest of England,366,211854
+7/20/2020,London,97,34816
+7/20/2020,Rest of England,647,212501
+7/21/2020,London,82,34898
+7/21/2020,Rest of England,594,213095
+7/22/2020,London,81,34979
+7/22/2020,Rest of England,653,213748
+7/23/2020,London,71,35050
+7/23/2020,Rest of England,646,214394
+7/24/2020,London,82,35132
+7/24/2020,Rest of England,611,215005
+7/25/2020,London,54,35186
+7/25/2020,Rest of England,433,215438
+7/26/2020,London,65,35251
+7/26/2020,Rest of England,444,215882
+7/27/2020,London,100,35351
+7/27/2020,Rest of England,700,216582
+7/28/2020,London,98,35449
+7/28/2020,Rest of England,673,217255
+7/29/2020,London,98,35547
+7/29/2020,Rest of England,868,218123
+7/30/2020,London,101,35648
+7/30/2020,Rest of England,745,218868
+7/31/2020,London,73,35721
+7/31/2020,Rest of England,544,219412
+8/1/2020,London,58,35779
+8/1/2020,Rest of England,431,219843
+8/2/2020,London,73,35852
+8/2/2020,Rest of England,429,220272
+8/3/2020,London,87,35939
+8/3/2020,Rest of England,844,221116
+8/4/2020,London,103,36042
+8/4/2020,Rest of England,806,221922
+8/5/2020,London,115,36157
+8/5/2020,Rest of England,810,222732
+8/6/2020,London,105,36262
+8/6/2020,Rest of England,851,223583
+8/7/2020,London,119,36381
+8/7/2020,Rest of England,732,224315
+8/8/2020,London,55,36436
+8/8/2020,Rest of England,581,224896
+8/9/2020,London,67,36503
+8/9/2020,Rest of England,484,225380
+8/10/2020,London,142,36645
+8/10/2020,Rest of England,1190,226570
+8/11/2020,London,149,36794
+8/11/2020,Rest of England,1043,227613
+8/12/2020,London,150,36944
+8/12/2020,Rest of England,926,228539
+8/13/2020,London,124,37068
+8/13/2020,Rest of England,884,229423
+8/14/2020,London,127,37195
+8/14/2020,Rest of England,907,230330
+8/15/2020,London,105,37300
+8/15/2020,Rest of England,534,230864
+8/16/2020,London,87,37387
+8/16/2020,Rest of England,436,231300
+8/17/2020,London,190,37577
+8/17/2020,Rest of England,934,232234
+8/18/2020,London,181,37758
+8/18/2020,Rest of England,728,232962
+8/19/2020,London,152,37910
+8/19/2020,Rest of England,907,233869
+8/20/2020,London,203,38113
+8/20/2020,Rest of England,990,234859
+8/21/2020,London,166,38279
+8/21/2020,Rest of England,819,235678
+8/22/2020,London,117,38396
+8/22/2020,Rest of England,587,236265
+8/23/2020,London,143,38539
+8/23/2020,Rest of England,528,236793
+8/24/2020,London,195,38734
+8/24/2020,Rest of England,856,237649
+8/25/2020,London,168,38902
+8/25/2020,Rest of England,847,238496
+8/26/2020,London,165,39067
+8/26/2020,Rest of England,948,239444
+8/27/2020,London,228,39295
+8/27/2020,Rest of England,1068,240512
+8/28/2020,London,214,39509
+8/28/2020,Rest of England,1095,241607
+8/29/2020,London,130,39639
+8/29/2020,Rest of England,864,242471
+8/30/2020,London,128,39767
+8/30/2020,Rest of England,803,243274
+8/31/2020,London,155,39922
+8/31/2020,Rest of England,895,244169
+9/1/2020,London,214,40136
+9/1/2020,Rest of England,1113,245282
+9/2/2020,London,173,40309
+9/2/2020,Rest of England,602,245884
+9/3/2020,London,0,40309
+9/3/2020,Rest of England,9,245893
+9/4/2020,London,0,40309
+9/4/2020,Rest of England,0,245893
